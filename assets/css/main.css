@@ -3354,8 +3354,8 @@ input, select, textarea {
 	.heading-left {
 		display: flex;
 		flex-direction: row;
-		padding-left: 130px;
-
+		/* padding-left: 7vw; */
+		justify-content: center;
 	}
 	.headshot {
 		height: 8em;
